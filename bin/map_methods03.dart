@@ -7,7 +7,7 @@ void main() {
 }
 
 Map func(Map data) {
-  data.remove('color');
+  data.remove('color'); 
 
   //youre code here
   return data;

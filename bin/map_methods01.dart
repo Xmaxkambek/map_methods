@@ -15,5 +15,5 @@ Map func(Map data, List lst) {
   
   
   //your code here
-  return data;
+  return data ;
 }
