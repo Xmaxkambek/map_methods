@@ -12,7 +12,7 @@ Map func(Map data) {
  String a = data['last_name'];
   data.remove('last_name');
   //your code here
-  data['salom'] = a;
+  data['surname'] = a;
 
  
   return data;
